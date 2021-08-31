@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with .net
 - 👨‍💻 All of my projects are available at [Github](https://github.com/mahes2365)
 - 📫 How to reach me: mahes2365@outlook.com
-- ⚡ Fun fact: I don't have an account in facebook and instagram
+- ⚡ Fun fact: I don't have an account in facebook and instagram.
 
 <h2>Languages and Tools:</h2>
 
@@ -28,4 +28,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahes2365&show_icons=true&theme=tokyonight&border_radius=10px) 
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahes2365&theme=tokyonight" alt="mahes2365" /></p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahes2365&theme=tokyonight" alt="mahes2365" />
+
+![](https://komarev.com/ghpvc/?username=mahes2365&style=plastic&color=ff00ff)
