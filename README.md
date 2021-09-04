@@ -26,7 +26,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahes2365&layout=compact&theme=tokyonight&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahes2365&show_icons=true&theme=tokyonight&border_radius=10px) 
+![Maheswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahes2365&show_icons=true&theme=tokyonight&border_radius=10px) 
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahes2365&theme=tokyonight" alt="mahes2365" />
 
